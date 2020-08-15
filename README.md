@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Gautam Mishra, a final year Computer Science HL student at Canberra Grammar School. CLick through some of the below repositorieis to find out about the work I've been doing over the past couple of years!
+
 <!--
 **gtmishr/gtmishr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
